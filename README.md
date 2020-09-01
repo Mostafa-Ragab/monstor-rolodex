@@ -1,3 +1,7 @@
+React App build which focused on using an API, state, and component lifecycles.
+
+Built with React, Tachyons, Cufon Fonts, Robohash, and JSON Placeholder API.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
